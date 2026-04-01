@@ -39,7 +39,10 @@ React, Node.js, Flask, Gemini API, Vercel, Render
 
 ## 👥 Team
 
-Qubix -- SKIT College Jaipur
+Virendra Sharma - Backend
+Sujal Gautam - Frontend and Ideation
+Shlok Shukla - Maching Learning
+Soumya Gupta - UI/UX
 
 ## 🌐 Live Demo
 
