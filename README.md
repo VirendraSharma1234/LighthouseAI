@@ -37,12 +37,12 @@ Predicts exam percentage and gives personalized improvement strategies.
 
 React, Node.js, Flask, Gemini API, Vercel, Render
 
-## 👥 Team
+## 👥 Team Members & Roles
 
-Virendra Sharma – Backend Development
-Sujal Gautam – Frontend Development & Ideation
-Shlok Shukla – Machine Learning
-Soumya Gupta – UI/UX Design
+- **Virendra Sharma** – Backend Development  
+- **Sujal Gautam** – Frontend Development & Ideation  
+- **Shlok Shukla** – Machine Learning  
+- **Soumya Gupta** – UI/UX Design
 
 ## 🌐 Live Demo
 
