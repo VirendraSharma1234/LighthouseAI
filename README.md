@@ -40,7 +40,7 @@ React, Node.js, Flask, Gemini API, Vercel, Render
 ## 👥 Team
 
 Virendra Sharma - Backend
-Sujal Gautam - Frontend and Ideation
+Sujal Gautam - Frontend and Ideation 
 Shlok Shukla - Maching Learning
 Soumya Gupta - UI/UX
 
